@@ -1,0 +1,4 @@
+Python 3.6 or higher
+tensorflow>=2.0.0
+matplotlib>=3.0.0
+numpy>=1.19.0
